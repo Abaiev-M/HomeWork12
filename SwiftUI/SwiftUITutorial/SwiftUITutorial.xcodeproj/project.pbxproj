@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		5A2933D92D21862B00C2D70E /* Lesson12SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lesson12SwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5A2934802D232AE100C2D70E /* SwiftUITutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUITutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		5A2933DB2D21862B00C2D70E /* Lesson12SwiftUI */ = {
+		5A2934822D232AE100C2D70E /* SwiftUITutorial */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Lesson12SwiftUI;
+			path = SwiftUITutorial;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		5A2933D62D21862B00C2D70E /* Frameworks */ = {
+		5A29347D2D232AE100C2D70E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		5A2933D02D21862B00C2D70E = {
+		5A2934772D232AE100C2D70E = {
 			isa = PBXGroup;
 			children = (
-				5A2933DB2D21862B00C2D70E /* Lesson12SwiftUI */,
-				5A2933DA2D21862B00C2D70E /* Products */,
+				5A2934822D232AE100C2D70E /* SwiftUITutorial */,
+				5A2934812D232AE100C2D70E /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		5A2933DA2D21862B00C2D70E /* Products */ = {
+		5A2934812D232AE100C2D70E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5A2933D92D21862B00C2D70E /* Lesson12SwiftUI.app */,
+				5A2934802D232AE100C2D70E /* SwiftUITutorial.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5A2933D82D21862B00C2D70E /* Lesson12SwiftUI */ = {
+		5A29347F2D232AE100C2D70E /* SwiftUITutorial */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5A2933E72D21862C00C2D70E /* Build configuration list for PBXNativeTarget "Lesson12SwiftUI" */;
+			buildConfigurationList = 5A29348E2D232AE300C2D70E /* Build configuration list for PBXNativeTarget "SwiftUITutorial" */;
 			buildPhases = (
-				5A2933D52D21862B00C2D70E /* Sources */,
-				5A2933D62D21862B00C2D70E /* Frameworks */,
-				5A2933D72D21862B00C2D70E /* Resources */,
+				5A29347C2D232AE100C2D70E /* Sources */,
+				5A29347D2D232AE100C2D70E /* Frameworks */,
+				5A29347E2D232AE100C2D70E /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				5A2933DB2D21862B00C2D70E /* Lesson12SwiftUI */,
+				5A2934822D232AE100C2D70E /* SwiftUITutorial */,
 			);
-			name = Lesson12SwiftUI;
+			name = SwiftUITutorial;
 			packageProductDependencies = (
 			);
-			productName = Lesson12SwiftUI;
-			productReference = 5A2933D92D21862B00C2D70E /* Lesson12SwiftUI.app */;
+			productName = SwiftUITutorial;
+			productReference = 5A2934802D232AE100C2D70E /* SwiftUITutorial.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		5A2933D12D21862B00C2D70E /* Project object */ = {
+		5A2934782D232AE100C2D70E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1610;
 				LastUpgradeCheck = 1610;
 				TargetAttributes = {
-					5A2933D82D21862B00C2D70E = {
+					5A29347F2D232AE100C2D70E = {
 						CreatedOnToolsVersion = 16.1;
 					};
 				};
 			};
-			buildConfigurationList = 5A2933D42D21862B00C2D70E /* Build configuration list for PBXProject "Lesson12SwiftUI" */;
+			buildConfigurationList = 5A29347B2D232AE100C2D70E /* Build configuration list for PBXProject "SwiftUITutorial" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 5A2933D02D21862B00C2D70E;
+			mainGroup = 5A2934772D232AE100C2D70E;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 5A2933DA2D21862B00C2D70E /* Products */;
+			productRefGroup = 5A2934812D232AE100C2D70E /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5A2933D82D21862B00C2D70E /* Lesson12SwiftUI */,
+				5A29347F2D232AE100C2D70E /* SwiftUITutorial */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		5A2933D72D21862B00C2D70E /* Resources */ = {
+		5A29347E2D232AE100C2D70E /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		5A2933D52D21862B00C2D70E /* Sources */ = {
+		5A29347C2D232AE100C2D70E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		5A2933E52D21862C00C2D70E /* Debug */ = {
+		5A29348C2D232AE300C2D70E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -188,7 +188,7 @@
 			};
 			name = Debug;
 		};
-		5A2933E62D21862C00C2D70E /* Release */ = {
+		5A29348D2D232AE300C2D70E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -244,14 +244,14 @@
 			};
 			name = Release;
 		};
-		5A2933E82D21862C00C2D70E /* Debug */ = {
+		5A29348F2D232AE300C2D70E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Lesson12SwiftUI/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"SwiftUITutorial/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -264,7 +264,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.gmail.aba.Lesson12SwiftUI;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gmail.aba.SwiftUITutorial;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -272,14 +272,14 @@
 			};
 			name = Debug;
 		};
-		5A2933E92D21862C00C2D70E /* Release */ = {
+		5A2934902D232AE300C2D70E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Lesson12SwiftUI/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"SwiftUITutorial/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -292,7 +292,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.gmail.aba.Lesson12SwiftUI;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gmail.aba.SwiftUITutorial;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -303,25 +303,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5A2933D42D21862B00C2D70E /* Build configuration list for PBXProject "Lesson12SwiftUI" */ = {
+		5A29347B2D232AE100C2D70E /* Build configuration list for PBXProject "SwiftUITutorial" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5A2933E52D21862C00C2D70E /* Debug */,
-				5A2933E62D21862C00C2D70E /* Release */,
+				5A29348C2D232AE300C2D70E /* Debug */,
+				5A29348D2D232AE300C2D70E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5A2933E72D21862C00C2D70E /* Build configuration list for PBXNativeTarget "Lesson12SwiftUI" */ = {
+		5A29348E2D232AE300C2D70E /* Build configuration list for PBXNativeTarget "SwiftUITutorial" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5A2933E82D21862C00C2D70E /* Debug */,
-				5A2933E92D21862C00C2D70E /* Release */,
+				5A29348F2D232AE300C2D70E /* Debug */,
+				5A2934902D232AE300C2D70E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 5A2933D12D21862B00C2D70E /* Project object */;
+	rootObject = 5A2934782D232AE100C2D70E /* Project object */;
 }
